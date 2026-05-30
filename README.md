@@ -91,19 +91,6 @@ class KarthikeyanS:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/karthikeyan-aihub">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-aihub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/karthikeyan-aihub">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-aihub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -116,14 +103,6 @@ class KarthikeyanS:
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-aihub&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-aihub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -166,7 +145,7 @@ class KarthikeyanS:
 | Project | Stack | Highlights |
 |---|---|---|
 | 🤖 [**BuildScan Rover**](https://github.com/karthikeyan-aihub) | Python · YOLOv8 · PyTorch · CUDA · IoT · OpenCV | AI-powered autonomous rover for structural crack detection; deployed YOLOv8n-seg with GPU acceleration; live monitoring + automated PDF reporting; published at **ICICEA'26** |
-| 🎓 [**Result Awareness System (FEAT)**](https://github.com/karthikeyan-aihub) | Python · Streamlit · PDF Generation | Academic utility platform serving **2,400+ course records** across **13 departments & 8 semesters**; CGPA calculator, semester planner, honor subject tracking |
+| 🎓 [**Result Awareness System (FEAT)**](https://github.com/karthikeyan-aihub) | HTML/CSS · JavaScript · PDF Generation | Academic utility platform serving **2,400+ course records** across **13 departments & 8 semesters**; CGPA calculator, semester planner, honor subject tracking |
 | 📊 [**COVID-19 Forecast Analytics Dashboard**](https://github.com/karthikeyan-aihub) | Python · Prophet · Pandas · Matplotlib | AI-powered forecasting dashboard with **30-day predictions** over **10,000+ records**; interactive visualizations for trend and outbreak analysis |
 
 </div>
@@ -199,7 +178,7 @@ class KarthikeyanS:
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 B.E. — CSE (AI & ML) | Annamalai University, Tamil Nadu | 2022 – 2026 | CGPA: 7.1 |
+| 🎓 B.E. — CSE (AI & ML) | Annamalai University, Tamil Nadu | 2022 – 2026 | CGPA: 7.10 |
 | 📘 HSC | Saraswathi Matriculation Hr. Sec. School | 2022 | 84.8% |
 | 📗 SSLC | Saraswathi Matriculation Hr. Sec. School | 2020 | 78.6% |
 | 💻 HDCA Diploma | TCES I.T. Education | 2022 | First Class |
